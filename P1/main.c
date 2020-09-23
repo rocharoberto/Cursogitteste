@@ -10,5 +10,6 @@ int main()
 //=======
     printf("Alteração realizada pelo usuário A\n");
 //>>>>>>> b8eb622b997354ca7a2f555685d6e36392fbe111
+    printf("nova alteração do usuario B\n");
     return 0;
 }
